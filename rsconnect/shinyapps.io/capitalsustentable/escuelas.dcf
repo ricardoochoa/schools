@@ -1,0 +1,9 @@
+name: escuelas
+account: capitalsustentable
+server: shinyapps.io
+appId: 132307
+bundleId: 590207
+url: https://capitalsustentable.shinyapps.io/escuelas/
+when: 1476823054.54732
+asMultiple: FALSE
+asStatic: FALSE

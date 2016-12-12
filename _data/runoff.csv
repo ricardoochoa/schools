@@ -1,0 +1,7 @@
+material,with_slope,without_slope
+Concrete,0.9,0.8
+Asphalt,0.9,0.8
+Metal or plastic,0.95,0.95
+Roof tiles,0.8,0.8
+Gravel,0.7,0.7
+Vegetation,0.75,0.7

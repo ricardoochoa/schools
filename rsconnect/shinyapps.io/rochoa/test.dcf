@@ -1,0 +1,9 @@
+name: test
+account: rochoa
+server: shinyapps.io
+appId: 131043
+bundleId: 587751
+url: https://rochoa.shinyapps.io/test/
+when: 1476637580.90015
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,4 @@
+"prefilter","waste","coefficient","cost"
+"Debris filter",5,0.95,120
+"First rain",10,0.9,110
+"Sedimentation tank",10,0.9,120
